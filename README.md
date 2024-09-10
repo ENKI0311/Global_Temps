@@ -59,3 +59,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to all contributors who have helped shape this project.
 
 This README provides all the necessary information for anyone interested in the Global Temperatures Project. Whether you're looking to contribute, learn from our analysis, or utilize our findings, we hope this repository serves as a valuable resource.
+
+# Global Temperature Trends Analysis
+
+This project analyzes global temperature trends using AI sentiment models. You can explore the notebook and run it on Google Colab by clicking the button below.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ENKI0311/Global_Temps_Project/blob/main/Global_Temps.ipynb)
