@@ -64,4 +64,4 @@ This README provides all the necessary information for anyone interested in the 
 
 This project analyzes global temperature trends using AI sentiment models. You can explore the notebook and run it on Google Colab by clicking the button below.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ENKI0311/Global_Temps_Project/blob/main/Global_Temps.ipynb)
+
